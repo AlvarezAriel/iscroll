@@ -21,7 +21,7 @@
     "jshint": "~2.5.1",
     "uglify-js": "~2.4.13"
   },
-  "repo": "AlvarezAriel/iscroll",
+  "repository": "AlvarezAriel/iscroll",
   "bugs": {
     "url": "https://github.com/cubiq/iscroll/issues"
   },
